@@ -40,4 +40,4 @@ I'm Nikhil Tiwari, a Computer Science and Engineering student at GLA University.
 * **LeetCode:** [leetcode.com/nikhiltiwari11](https://leetcode.com/nikhiltiwari11)
 * **Codeforces:** [codeforces.com/profile/nikhiltiwari101](https://codeforces.com/profile/nikhiltiwari101)
     * Codeforces Rating: 802
-* **HackerRank:** [hackerrank.com/nik2315001473](https://hackerrank.com/nik_2315001473)
+* **HackerRank:** [hackerrank.com/nik_2315001473](https://hackerrank.com/nik_2315001473)
