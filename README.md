@@ -8,12 +8,11 @@
 
 ## About Me
 
-I'm Nikhil Tiwari, a Computer Science and Engineering student at GLA University. I'm passionate about software development and problem-solving. I enjoy working on projects that challenge me to learn and grow.
+Hi👋 I'm Nikhil Tiwari, a Computer Science and Engineering student at GLA University. I'm passionate about software development and problem-solving. I enjoy working on projects that challenge me to learn and grow.
 
 ## Contact
 
-* **Email:** nikhil.tiwari_cs23@gla.ac.in
-* **Phone:** 9812152411
+* **Email:** nikhil.tiwari1447@gmail.com
 
 ## Education
 
