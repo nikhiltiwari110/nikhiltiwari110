@@ -20,24 +20,28 @@ I'm Nikhil Tiwari, a Computer Science and Engineering student at GLA University.
 * **Bachelor of Technology in Computer Science and Engineering**
     * GLA University, Mathura, Uttarpradesh
     * Aug 2023 - Present
-* **Highschool & Intermediate**
-    * K.L. Arya DAV Public School, Hisar, Haryana
-    * April 2020 - May 2023
-
 ## Projects
 
 * **To-Do List | HTML, CSS, JavaScript**
     * Developed a responsive to-do list web application for efficient task management.
     * Designed an intuitive UI allowing users to add, edit, and delete tasks.
 
+* **Password Manager | HTML, CSS, JavaScript, localStorage**
+   * Built a web-based password manager to securely store platform credentials in browser localStorage.
+   * Implemented features to add, view, delete, and reset credentials with persistent storage.
+   * Designed a responsive and user-friendly interface for ease of use
+
 ## Technical Skills
 
 * **Languages:** Java, Python, C, MySQL, JavaScript, HTML, CSS
 * **Developer Tools:** Git, VS Code, Visual Studio, IntelliJ, Eclipse
 
-## Coding Profiles
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nikhiltiwari110&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nikhiltiwari110&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltiwari110&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* **LeetCode:** [leetcode.com/nikhiltiwari11](https://leetcode.com/nikhiltiwari11)
-* **Codeforces:** [codeforces.com/profile/nikhiltiwari101](https://codeforces.com/profile/nikhiltiwari101)
-    * Codeforces Rating: 802
-* **HackerRank:** [hackerrank.com/nik_2315001473](https://hackerrank.com/nik_2315001473)
+---
+[![](https://visitcount.itsvg.in/api?id=nikhiltiwari110&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
